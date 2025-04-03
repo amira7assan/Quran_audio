@@ -106,7 +106,7 @@ List<Reciter> reciters = [
     audioPath: "/refat",
   ),
 ];
-int defaultReciterId = 11;
+int defaultReciterId = 1;
 
 Future<List<Surah>> loadSurahs() async {
   try {
